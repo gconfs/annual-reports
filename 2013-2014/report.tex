@@ -4,6 +4,8 @@
 \usepackage{graphicx}
 \usepackage{titling}
 \usepackage[margin=1in]{geometry}
+\usepackage[toc,titletoc]{appendix}
+\usepackage{pdfpages}
 \setlength{\droptitle}{-6.133742cm}
 \title{Rapport d'activité de l'association GConfs pour l'année 2013 - 2014}
 \author{Paul `Dettorer' Hervot (hervot\_p)
@@ -18,6 +20,7 @@
     \end{center}
     {\let\newpage\relax\maketitle}
   \end{titlepage}
+  \tableofcontents
   \chapter{Premier Semestre}
   \section{Objectifs du Bureau pour l'année 2013-2014}
   \begin{itemize}
@@ -115,5 +118,9 @@
   \section{Avancement des objectifs}
   \section{Budget}
   \section{Notation des Membres}
-  \section{Rapports des membres}
+  \begin{appendices}
+      \chapter{Rapports des membres}
+      \includepdf{rapport_zeletochoy.pdf}
+      % \includepdf{rapport_seirl.pdf}
+  \end{appendices}
 \end{document}
