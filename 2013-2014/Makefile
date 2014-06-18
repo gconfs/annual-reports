@@ -1,22 +1,21 @@
 REPORTS=rapport_zeletochoy.pdf
 # REPORTS+=rapport_seirl.pdf
 
+UPLOADED_FILES=$(REPORTS) logo_gconfs.png
+
 all: report.pdf
 
-report.pdf: logo_gconfs.png report.tex $(REPORTS)
+report.pdf: $(UPLOADED_FILES) report.tex
 	pdflatex report.tex
 	pdflatex report.tex
 
-rapport_%.pdf:
+$(UPLOADED_FILES):
 	wget 'http://gconfs.fr/tmp/$@'
 
-logo_gconfs.png:
-	wget 'http://gconfs.fr/tmp/logo_gconfs.png'
-
 clean:
-	rm -f report.{toc,aux,log} logo_gconfs.png $(REPORTS)
+	rm -f report.{toc,aux,log} $(UPLOADED_FILES)
 
 distclean: clean
-	rm report.pdf
+	rm -f report.pdf
 
 .PHONY: all clean distclean
