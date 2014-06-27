@@ -5,7 +5,9 @@ UPLOADED_FILES=$(REPORTS) logo_gconfs.png eval_s1.pdf eval_s2.pdf
 
 all: report.pdf
 
-report.pdf: $(UPLOADED_FILES) report.tex
+downloads: $(UPLOADED_FILES)
+
+report.pdf: downloads report.tex
 	pdflatex report.tex
 	pdflatex report.tex
 
