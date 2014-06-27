@@ -1,7 +1,7 @@
 REPORTS=rapport_zeletochoy.pdf
 REPORTS+=rapport_seirl.pdf
 
-UPLOADED_FILES=$(REPORTS) logo_gconfs.png eval_s1.pdf
+UPLOADED_FILES=$(REPORTS) logo_gconfs.png eval_s1.pdf eval_s2.pdf
 
 all: report.pdf
 
