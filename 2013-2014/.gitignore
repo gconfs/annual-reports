@@ -2,5 +2,7 @@
 *.log
 *.toc
 *.pdf
+*.xls
+*.tex
 *.png
 *.swp
