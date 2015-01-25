@@ -5,4 +5,4 @@ run:
 	evince src.pdf
 
 clean:
-	rm -f *.{aux,nav,toc,log,out,snm,vrb,pdf,dvi,ps}
+	rm -f *.{aux,nav,toc,log,out,snm,vrb,dvi,ps}
