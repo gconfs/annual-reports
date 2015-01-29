@@ -1,5 +1,5 @@
 all:
-	latex src.tex && dvipdfm src
+	pdflatex src.tex
 
 run:
 	evince src.pdf
