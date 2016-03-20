@@ -35,6 +35,25 @@
 * Speakers :
     * Julien Lehuen (EPITA 2013)
 
+### Nuit de l'info
+
+* Nuit de l'info
+* Date : Jeudi 3 décembre 2015
+* Heure : 19h
+* Lieu : Epita KB, Amphi 4
+* Speakers :
+    * Léo Ercolanelli (EPITA 2016)
+    * Thomas Michelot (EPITA 2020)
+    * Gaël Gilet-Couraud (EPITA 2018)
+    * Evolutek<<
+    * Meven Courouble (EPITA 2019)
+    * Yohann Léon (EPITA 2019)
+    * Franklin Mathieu (EPITA 2017)
+    * Valentin Tolmer (EPITA 2016)
+    * Nils Layet (EPITA 2017)
+    * Kévin Sztern (EPITA 2016)
+
+
 ### Machine Learning
 
 * Machine Learning
