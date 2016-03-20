@@ -28,8 +28,12 @@
 
 ### Machine Learning
 
-* 
-* 
+* Machine Learning
+* Date : Vendredi 15 janvier 2016
+* Heure : 18h
+* Lieu : Epita KB, P03
+* Speakers :
+    * Quentin 'underflow' De Laroussilhe
 
 # Partenariats
 
