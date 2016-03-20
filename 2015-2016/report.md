@@ -59,4 +59,14 @@ In practice, they’re not.}).
 
 L'association est présente à toutes les JPO EPITA et EPITECH.
 
+L'association est présente à toutes les JPO EPITA et EPITECH.
 
+* 17 octobre 2015
+* 14 novembre 2015
+* 28 novembre 2015
+* 5 décembre 2015
+* 19 décembre 2015
+* 16 janvier 2016
+* 23 janvier 2016
+* 6 février 2016
+* 19 mars 2016
