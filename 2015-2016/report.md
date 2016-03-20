@@ -53,6 +53,17 @@
     * Nils Layet (EPITA 2017)
     * Kévin Sztern (EPITA 2016)
 
+### Bien Démarrer son Projet
+
+* Bien Démarrer son Projet
+* Date : Vendredi 11 décembre 2015
+* Heure : 20h
+* Lieu : Epita JV, VA204
+* Speakers :
+    * Jean-Baptiste Hervé (EPITA 2018)
+    * Alexis Chotard (EPITA 2015)
+    * Meven Courouble (EPITA 2019)
+    * François Mazeau (EPITA 2019)
 
 ### Machine Learning
 
