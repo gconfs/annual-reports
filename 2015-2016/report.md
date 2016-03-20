@@ -26,6 +26,15 @@
     * Dotty
     * Dakey
 
+### High Frequency Trading
+
+* High Frequency Trading
+* Date : Vendredi 20 novembre 2015
+* Heure : 20h
+* Lieu : Epita KB, Amphi 3
+* Speakers :
+    * Julien Lehuen (EPITA 2013)
+
 ### Machine Learning
 
 * Machine Learning
